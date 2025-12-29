@@ -99,13 +99,6 @@ To demonstrate how clinical visualization relies on window functions to reveal d
 ```
 /notebooks
   medical_image_processing_rnd.ipynb   # Main R&D notebook
-
-/data
-  DATA_DICOM_Chest/                    # Chest CT DICOM slices
-  DATA_DICOM_Knee/                     # Knee CT DICOM slices
-
-/outputs
-  png_samples/                         # Converted and windowed images
 ```
 
 ---
